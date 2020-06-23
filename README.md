@@ -1,7 +1,7 @@
 # Harvard CS50: Introduction to Computer Science
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/williamguilhermesouza/cs50/master/CS50x\ through\ edX.png" />
+    <img src="https://raw.githubusercontent.com/williamguilhermesouza/cs50/master/CS50x through edX.png" />
 </p>
 Problem sets and projects for Harvard CS50: Introduction to Computer Science
 
