@@ -1,4 +1,8 @@
 # Harvard CS50: Introduction to Computer Science
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/williamguilhermesouza/cs50/master/demos/CS50x\ through\ edX.png" />
+</p>
 Problem sets and projects for Harvard CS50: Introduction to Computer Science
 
 To complete the following psets, I studied all of the CS50 lectures, walkthroughs, sections, and shorts on edX. All pset submissions received scores of 100% from the CS50x gradebook.
