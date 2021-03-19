@@ -1,5 +1,8 @@
 # Harvard CS50: Introduction to Computer Science
 
+![Repo-size](https://img.shields.io/github/repo-size/williamguilhermesouza/cs50)
+![Last-commit](https://img.shields.io/github/last-commit/williamguilhermesouza/cs50)
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/williamguilhermesouza/cs50/master/CS50x through edX.png" />
 </p>
